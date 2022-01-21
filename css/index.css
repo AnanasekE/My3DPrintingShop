@@ -8,3 +8,8 @@
 .site {
     color: black;
 }
+.photo > img {
+    width: 100%;
+    height: 700px;
+    object-fit: cover;
+}
