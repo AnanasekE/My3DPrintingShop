@@ -1,0 +1,10 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 15px 1rem;
+    font-size: 30px;
+    border-bottom: black solid 3px;
+}
+.site {
+    color: black;
+}
